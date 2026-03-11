@@ -1,5 +1,5 @@
 -- Query: Advanced Payment Adoption
--- Description: 
+-- Description: Tracks adoption of advanced payment models (ADV PAY, AIM, AIP) by track type, highlighting which tracks are most engaged with alternative payment structures.
 -- Table: healthcare_records
 -- Author: Tevin S.
 -- Date: 2026-03
